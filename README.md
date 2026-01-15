@@ -4,7 +4,7 @@
 
 <div>
 
-<img align="right" width="380" alt="side-image.jpg"/>
+<img align="right" width="380" src="side-image.jpg"/>
 
 <h2> / about me / </h2>
 
