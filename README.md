@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="" alt="header"/>
+  <img src="profile.png" alt="header"/>
 </p>
 
 <div>
 
-<img align="right" width="380" alt="https://i.pinimg.com/736x/61/46/1e/61461e4f3e85087514028dfb3a95b8bd.jpg"/>
+<img align="right" width="380" alt="side-image.jpg"/>
 
 <h2> / about me / </h2>
 
